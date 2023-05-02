@@ -28,7 +28,7 @@ Currently in use:
 
 ## Clinic Subnet Space
 
-10.100.0.0-10.111.255.255 (I'd rather allocate 10.100.0.0/12)
+10.100.0.0-10.111.255.255 (I'd rather allocate 10.100.0.0/12, which is really 10.96.0.0/12)
 10.240.0.0/16
 
 10.240.100.0/23 = Client VPN zone A
