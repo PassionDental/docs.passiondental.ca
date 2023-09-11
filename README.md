@@ -4,6 +4,7 @@
 
 * [Server Standards](standards/servers.md)
 * [Networking Space](standards/networking.md)
+* [Clinic Standards](standards/clinic_standards.md)
 
 ## Operations
 
