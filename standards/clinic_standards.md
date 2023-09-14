@@ -8,6 +8,10 @@ Our most common network rack standard, the wall mount has 2U of shelf space and 
 
 ![Wall Rack](images/clinic_standards/wall-rack.jpg)
 
+We also have a enclosure for shared spaces to cover all the gear. 
+
+[Link to enclosure](https://www.primecables.ca/p-370594-cab-pc-07907-6u-wall-mounted-network-server-data-cabinet-primecables)
+
 ### Ground Options
 
 #### Two-post option
