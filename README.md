@@ -6,6 +6,7 @@
 * [Networking Space](standards/networking.md)
 * [Clinic Standards](standards/clinic_standards.md)
 * [Wifi](standards/wifi.md)
+* [Micrsoft Licensing](standards/microsoft_licensing.md)
 
 ## Operations
 
