@@ -24,11 +24,6 @@ These accounts are provisioned with the Microsoft 365 F1 license. These licenses
 
 \** $120 + $72 Azure AD P1 since E1 is not under the enterprise plans.
 
-Notes to myself:
-discuss the upgrade license logic
-discuss email, top level doamins (briefly, we can have a saparate document for domain standards)
-discuss OS licenses and how we'll provision those.
-
 ## Email
 
 In an effort to simplify management and license management, we're using Office 365 as our exchange server.
