@@ -1,0 +1,18 @@
+{
+    "MD033": false,
+    "line-length": false,
+    "no-inline-html": {
+        "allowed_elements": [
+            "br",
+            "a",
+            "hr",
+            "div",
+            "style",
+            "sup",
+            "img",
+            "video"
+        ]
+    },
+    "no-trailing-punctuation": false,
+    "no-bare-urls": false
+}
