@@ -10,11 +10,10 @@ Sensu expects exit code 0 for success, 1 for warning, and 2 for critical.
 
 ## 2. Turn your script into an asset
 
-1. Create a folder for your check in `resources/sensu/custom_assets` folder (e.g. `smartsheet-populate-domains`)
-2. Put your check in the folder you created
+1. Create a folder for your check in `resources/sensu/custom_assets` folder (e.g. `pg-smartsheet`)
+2. Put your check in the folder you created (e.g. `pg-smartsheet`)
 3. Run the following playbook: `ansible-playbook playbooks/ops-server-sensu.yml --tags assets`
-
-- To upload a single check, you can run the following instead: `ansible-playbook playbooks/ops-server-sensu.yml --tags single_package,proto -e 'single_package=smartsheet'`
+	- To upload a single check, you can run the following instead: `ansible-playbook playbooks/ops-server-sensu.yml --tags single_package,proto -e 'single_package=pg-smartsheet'`
 
 ## 3. Write your check definition
 
@@ -29,6 +28,6 @@ Sensu expects exit code 0 for success, 1 for warning, and 2 for critical.
     
 ```
 
-3. Run `ansible-playbook playbooks/ops-server-sensu.yml --tags checks`
+3. Run the following playbook: `ansible-playbook playbooks/ops-server-sensu.yml --tags checks`
 
 You did it!
