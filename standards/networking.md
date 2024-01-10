@@ -1,6 +1,14 @@
 # Passion Dental Subnets
 
-At Passion, all address space is predetermined. 
+At Passion, all address space is predetermined.
+
+## Subnet Calculator
+
+Use this subnet calculator to determine the subnet for each location.
+
+https://subnets.passiondental.ca/
+
+**Note:** the /28 data centre subnets are not applicable right now
 
 ## AWS Subnet Space
 
