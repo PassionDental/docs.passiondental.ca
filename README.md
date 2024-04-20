@@ -16,3 +16,4 @@
 * [Conduct a Survey](operations/iauditor/how-to-conduct-survey.md)
 * [Deploying a Sensu Check](ansible/deploying_a_check.md)
 * [IT Standardization Introduction Letter](operations/it_standardization/intro_letter.md)
+* [Snowflake](snowflake/snowflake.md)
