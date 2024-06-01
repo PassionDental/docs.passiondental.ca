@@ -28,7 +28,7 @@ For the clinic infrastructure, we break this up into four main phases:
 
 ### Site Visit 1
 
-During Site Visit 1, we will send a contractor to perform an IT survey. During this survey, the goal is to collect the required information for us to build a floor plan and data on all your computers, servers, printers, cabling, medical equipment, software, and internet services. After this survey is completed, we will hold a kick-off call with you to go over the proposed plan.
+During Site Visit 1, we will send a contractor to perform an IT survey. During this survey, the goal is to collect the required information for us to build a floor plan and data on all your computers, servers, printers, cabling, dental equipment, software, and internet services. After this survey is completed, we will hold a kick-off call with you to go over the proposed plan and budget for the implementation.
 
 ### Site Visit 2
 
