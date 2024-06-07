@@ -2,7 +2,7 @@
 
 ## Overview
 
-In order to help aid Passion in compliance with our <a href="/lastpass/password_policy.md">Password Policy</a>, we provide LastPass as a safe way to use separate passwords for each service you sign up for.
+In order to help aid Passion in compliance with our <a href="/operations/lastpass/password_policy.md">Password Policy</a>, we provide LastPass as a safe way to use separate passwords for each service you sign up for.
 
 ### What is LastPass?
 

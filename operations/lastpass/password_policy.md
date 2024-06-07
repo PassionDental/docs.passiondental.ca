@@ -36,16 +36,16 @@ All system-level passwords must adhere to the following guidelines:
 
 ### Password Protection
 
-•	The same password must not be used for multiple accounts.
-•	Passwords must not be shared with anyone. All passwords are to be treated as sensitive, confidential {COMPANY-NAME} information.
-•	Stored passwords must be encrypted.
-•	Passwords must not be inserted in e-mail messages or other forms of electronic communication.
-•	Passwords must not be revealed over the phone to anyone.
-•	Passwords must not be revealed on questionnaires or security forms.
-•	Users must not hint at the format of a password (for example, “my family name”).
-•	{COMPANY-NAME} passwords must not be shared with anyone, including co-workers, managers, or family members, while on vacation.
-•	Passwords must not be written down and stored anywhere in any office. Passwords must not be stored in a file on a computer system or mobile device (phone, tablet) without encryption.
-•	If the security of an account is in question, the password must be changed immediately. In the event passwords are found or discovered, the following steps must be taken:
-o	Take control of the passwords and protect them
-o	Report the discovery to IT
-•	Users cannot circumvent password entry with an auto logon, application remembering, embedded scripts, or hard coded passwords in client software. Exceptions may be made for specific applications (like automated backup processes) with the approval of IT. For an exception to be approved, there must be a procedure to change the passwords.
+* The same password must not be used for multiple accounts.
+* Passwords must not be shared with anyone. All passwords are to be treated as sensitive, confidential Passion information.
+* Stored passwords must be encrypted.
+* Passwords must not be inserted in e-mail messages or other forms of electronic communication.
+* Passwords must not be revealed over the phone to anyone.
+* Passwords must not be revealed on questionnaires or security forms.
+* Users must not hint at the format of a password (for example, “my family name”).
+* Passion passwords must not be shared with anyone, including co-workers, managers, or family members, while on vacation.
+* Passwords must not be written down and stored anywhere in any office. Passwords must not be stored in a file on a computer system or mobile device (phone, tablet) without encryption.
+* If the security of an account is in question, the password must be changed immediately. In the event passwords are found or discovered, the following steps must be taken:
+  * Control of the passwords and protect them
+  * Report the discovery to IT
+* Users cannot circumvent password entry with an auto logon, application remembering, embedded scripts, or hard coded passwords in client software. Exceptions may be made for specific applications (like automated backup processes) with the approval of IT. For an exception to be approved, there must be a procedure to change the passwords.
