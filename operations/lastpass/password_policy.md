@@ -20,7 +20,7 @@ Passwords for Passion network access must be implemented according to the follow
 
 * Passwords must be changed every 365 days
 * Passwords must adhere to a minimum length of 8 characters
-* Passwords must contain a combination of alpha, numeric, and special characters, where the computing system permits (!@#$%^&*_+=?/~’;’,<>|\).
+* Passwords must contain a combination of alpha, numeric, and special characters, where the computing system permits `(!@#$%^&*_+=?/~’;’,<>|\)`.
 * Passwords must not be easily tied back to the account owner such as:
 * username, social security number, nickname, relative’s names, birth date, etc.
 * Passwords must not be dictionary words or acronyms
