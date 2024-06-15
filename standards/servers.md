@@ -16,7 +16,7 @@ We aim to have at least 3.0Ghz with as many cores as possible while supporting a
 
 ## Memory
 
-Ideally, we have at least 256GB of memory with at least 16GB sized chips.
+We aim to have at least 64GB of memory
 
 ## Hard Drives
 
@@ -29,3 +29,9 @@ In an effort to improve up-time and reduce our need for clinical staff's assista
 ## Hypervisor
 
 We use VMWare's ESXi hypervisor because its the most reliable and secure virtualization technology in the world.
+
+## SKUs
+
+Standard Shelf for Server: https://www.amazon.ca/gp/product/B008X3JHJQ/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+
+Standard Server: https://buy.hpe.com/us/en/compute/rack-servers/proliant-dl10-servers/proliant-dl20-server/hpe-proliant-dl20-gen11/p/1014788779
