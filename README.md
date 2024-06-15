@@ -19,6 +19,7 @@
 
 ### For IT
 
+* [Intune](operations/intune/overview.md)
 * [Passion Workspaces](operations/workspaces/workspaces.md)
 * [Matillion ETL Server](operations/matillion/access-etl-instance.md)
 * [Conduct a Survey](operations/iauditor/how-to-conduct-survey.md)
