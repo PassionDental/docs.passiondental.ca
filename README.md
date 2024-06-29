@@ -16,6 +16,7 @@
 * [IT Standardization Introduction Letter](operations/it_standardization/intro_letter.md)
 * [Password Policy](operations/lastpass/password_policy.md)
 * [LastPass FAQ](operations/lastpass/faq.md)
+* [Proofpoint](operations/email/proofpoint.md)
 
 ### For IT
 
@@ -25,4 +26,3 @@
 * [Conduct a Survey](operations/iauditor/how-to-conduct-survey.md)
 * [Deploying a Sensu Check](ansible/deploying_a_check.md)
 * [Snowflake](snowflake/snowflake.md)
-
