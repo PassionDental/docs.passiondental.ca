@@ -26,3 +26,4 @@
 * [Conduct a Survey](operations/iauditor/how-to-conduct-survey.md)
 * [Deploying a Sensu Check](ansible/deploying_a_check.md)
 * [Snowflake](snowflake/snowflake.md)
+* [Microsoft Office](operations/intune/installing-office.md)
