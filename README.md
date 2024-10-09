@@ -27,3 +27,4 @@
 * [Deploying a Sensu Check](ansible/deploying_a_check.md)
 * [Snowflake](snowflake/snowflake.md)
 * [Microsoft Office](operations/intune/installing-office.md)
+* [Email Migration Checklist](operations/email/email-migration-checklist.md)
