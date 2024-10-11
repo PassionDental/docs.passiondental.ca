@@ -20,7 +20,7 @@ Note: our configuration install the following office Products: Word, Powerpoint,
 
 We are still working out licensing requirements for device based licensing. Stay tuned!
 
-### Install Office using Microsoft Apps for Business (User Licensing)
+### Install Office using Microsoft Apps for Enterprise (User Licensing)
 
 We have a Smartsheet setup to automatically create the users and appropriately license them. That Smartsheet can be found here: https://app.smartsheet.com/sheets/h5c24vMQJ3C8H79QcX8hc6vPQFgmPjw5vfx3qJ71?view=grid
 
