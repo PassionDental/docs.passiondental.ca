@@ -15,29 +15,28 @@ You can download FileZilla for Mac or Windows using the links below:
 
 After you successfully install FileZilla, follow the below steps to connect to the Passion SFTP server.
 
-#### Opening FileZilla
-
-Open FileZilla by clicking on your start menu and searching for FileZilla
+#### Open FileZilla by clicking on your start menu and searching for FileZilla
 
 ![startmenu](images/startmenu.png)
 
-#### Connecting
-
-1. Enter the following information in the top bar
+#### Enter the following information in the top bar
 
 ![topbar](images/topbar.png)
 
-Host: `sftp://sftp.passiondental.ca`
-Username: your passion email without @passiondental.ca (e.g. If your passion email is
-stevent@passiondental.ca you would enter `stevent`)
-Password: `your passion email password`
-Port: `22`
+**Host**: `sftp://sftp.passiondental.ca`
 
-2. After you fill out the information, click Quickconnect.
+**Username**: Passion email without @passiondental.ca\
+Example: If your passion email is abc@passiondental.ca you would enter `abc`
+
+**Password**: `Passion email password`
+
+**Port**: `22`
+
+#### After you fill out the information, click Quickconnect.
 
 ![quickconnect](images/quickconnect.png)
 
-3. Click OK on the unknown host key dialog.
+#### Click OK on the unknown host key dialog.
 
 ![hostkeydialog](images/hostkeydialog.png)
 
