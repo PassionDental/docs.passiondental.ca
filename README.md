@@ -17,6 +17,7 @@
 * [Password Policy](operations/lastpass/password_policy.md)
 * [LastPass FAQ](operations/lastpass/faq.md)
 * [Proofpoint](operations/email/proofpoint.md)
+* [Connecting to SFTP](operations/sftp/how-to-connect-sftp.md)
 
 ### For IT
 
